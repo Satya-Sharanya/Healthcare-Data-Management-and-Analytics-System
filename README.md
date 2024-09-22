@@ -6,6 +6,7 @@ The primary goal of this project is to enhance healthcare service delivery and o
 Healthcare organizations often face challenges in managing and interpreting vast amounts of patient data, financial transactions, and professional performance metrics. This project addresses the need for integrated data analysis to provide actionable insights that can improve patient care, streamline operations, and increase financial efficiency.
 
 Level of Queries Used:
+
 Basic SQL Techniques: SUM, COUNT, MAX, JOIN, ORDER BY, LIMIT, WHERE
 
 Intermediate SQL Techniques: ROW_NUMBER(), LEAD(), Common Table Expressions, CASE
