@@ -7,5 +7,7 @@ Healthcare organizations often face challenges in managing and interpreting vast
 
 Level of Queries Used:
 Basic SQL Techniques: SUM, COUNT, MAX, JOIN, ORDER BY, LIMIT, WHERE
+
 Intermediate SQL Techniques: ROW_NUMBER(), LEAD(), Common Table Expressions, CASE
+
 Advanced SQL Techniques: LAG(), DENSE_RANK(), COALESCE(), DATEDIFF(), Subqueries
